@@ -1,0 +1,10 @@
+E:\Project\WindowsCRUD\WindowsCRUD\bin\Debug\WindowsCRUD.exe.config
+E:\Project\WindowsCRUD\WindowsCRUD\bin\Debug\WindowsCRUD.exe
+E:\Project\WindowsCRUD\WindowsCRUD\bin\Debug\WindowsCRUD.pdb
+E:\Project\WindowsCRUD\WindowsCRUD\obj\Debug\WindowsCRUD.csprojAssemblyReference.cache
+E:\Project\WindowsCRUD\WindowsCRUD\obj\Debug\WindowsCRUD.Form1.resources
+E:\Project\WindowsCRUD\WindowsCRUD\obj\Debug\WindowsCRUD.Properties.Resources.resources
+E:\Project\WindowsCRUD\WindowsCRUD\obj\Debug\WindowsCRUD.csproj.GenerateResource.cache
+E:\Project\WindowsCRUD\WindowsCRUD\obj\Debug\WindowsCRUD.csproj.CoreCompileInputs.cache
+E:\Project\WindowsCRUD\WindowsCRUD\obj\Debug\WindowsCRUD.exe
+E:\Project\WindowsCRUD\WindowsCRUD\obj\Debug\WindowsCRUD.pdb
